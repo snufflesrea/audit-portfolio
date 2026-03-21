@@ -2,7 +2,7 @@
 - Cosmos/ Rust / ThorChain
 - 2599 NSloc
 - Date: 2025-12
-- Result: Rank #,  USDC
+- Result: Rank #174,  $0 USDC
 
 ## Findings
 
