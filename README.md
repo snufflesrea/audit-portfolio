@@ -37,7 +37,7 @@ Short summaries and links live in `public/`. Add a row for each contest.
 
 | Date | Duration | Contest | Platform | Result | Findings |
 | --- | --- | --- | --- | --- | --- |
-| 2025-12-17 | 30d | Rujira | Code4rena | #174 | [1M](public/2025-12-Rujira) |
+| 2025-12-17 | 30d | Rujira | Code4rena | #287 | [1M](public/2025-12-Rujira) |
 
 
 ### Private Audits
