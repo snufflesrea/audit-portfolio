@@ -7,8 +7,7 @@
 
 ## About me
 
-I was a wellhead Engineer have a career break and turned into Android Developer. Now I am venturing into web3 space and
-breaking code in my spare time
+Swapped wellheads for code—Android Developer now exploring Web3 and breaking things to build better ones
 
 ## Contests highlights
 
