@@ -46,7 +46,7 @@ Short summaries and links live in `public/`. Add a row for each contest.
 | --- | --- | --- | --- | --- | --- |
 
 
-## Published Write-up & Articles
+## Publication & Media
 
 
 ## Notes
