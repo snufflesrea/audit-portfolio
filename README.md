@@ -13,13 +13,23 @@ Swapped wellheads for code—Android Developer now exploring Web3 and breaking t
 
 | Metric | Value |
 | --- | --- |
-| Total bugs found | 1 |
+| Total bugs found | 3 |
 | Critical found | 0 |
-| Highs found | 0  |
-| Mediums found | 1 |
+| Highs found | 1  |
+| Mediums found | 2 |
 | Top-10 placements | 0 |
 
 ## Private engagements highlights
+
+| Metric | Value |
+| --- | --- |
+| Total bugs found | 0 |
+| Criticals found | 0 |
+| Highs found | 0 |
+| Mediums found | 0 |
+| Lows found | 0 |
+
+## Bug bounty highlights
 
 | Metric | Value |
 | --- | --- |
@@ -37,9 +47,18 @@ Short summaries and links live in `public/`. Add a row for each contest.
 | Date | Duration | Contest | Platform | Result | Findings |
 | --- | --- | --- | --- | --- | --- |
 | 2025-12-17 | 30d | Rujira | Code4rena | #53 | [1M](public/2025-12-Rujira) |
+| 2026-4-18 | 40d | K2 Lend | Code4rena | #29 | |
 
 
 ### Private Audits
+
+
+| Date | Duration  | NSLOC | Project | Type  | Findings |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Bug bounty
 
 
 | Date | Duration  | NSLOC | Project | Type  | Findings |
