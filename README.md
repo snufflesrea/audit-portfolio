@@ -47,7 +47,7 @@ Short summaries and links live in `public/`. Add a row for each contest.
 | Date | Duration | Contest | Platform | Result | Findings |
 | --- | --- | --- | --- | --- | --- |
 | 2025-12-17 | 30d | Rujira | Code4rena | #53 | [1M](public/2025-12-Rujira) |
-| 2026-4-18 | 40d | K2 Lend | Code4rena | #29 | |
+| 2026-4-18 | 40d | K2 Lend | Code4rena | #29 | [1H/1M](https://github.com/snufflesrea/audit-portfolio/blob/main/public/2026-4-K2-C4.md) |
 
 
 ### Private Audits
