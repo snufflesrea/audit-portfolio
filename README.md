@@ -1,74 +1,60 @@
 <div align="center">
   <img src="./bingomum.jpeg" width="120" alt="snufflesrea logo" />
-  <h1>snufflesrea - Audit Portfolio</h1>
-  <p><strong>Web3 Security Researcher Specialized in Rust/Solana. </strong></p>
+
+  <h1>snufflesrea — Web3 Security Researcher</h1>
+
+  <p>
+    Rust & Solana Security · DeFi · Smart Contract Auditing
+  </p>
 </div>
 
+## About Me
 
-## About me
+Former Android developer who transitioned into Web3 security.
 
-Swapped wellheads for code—Android Developer now exploring Web3 and breaking things to build better ones
+I specialize in auditing Rust/Solana protocols and learn by breaking real systems. My current focus is DeFi protocol security, with an expanding focus on zero-knowledge and privacy protocols.
 
-## Contests highlights
+## At a Glance
 
-| Metric | Value |
-| --- | --- |
-| Total bugs found | 3 |
-| Critical found | 0 |
-| Highs found | 1  |
-| Mediums found | 2 |
-| Top-10 placements | 0 |
+- 🦀 Rust / Solana security researcher
+- 🏆 1 High and 2 Medium findings from public audit contests
+- 🔍 3 valid findings across competitive audits
+- 🏅 Top 30 finish in Code4rena competition
+- 🧠 Currently exploring ZK and privacy protocol security
 
-## Private engagements highlights
+## Security Focus
 
-| Metric | Value |
-| --- | --- |
-| Total bugs found | 0 |
-| Criticals found | 0 |
-| Highs found | 0 |
-| Mediums found | 0 |
-| Lows found | 0 |
-
-## Bug bounty highlights
-
-| Metric | Value |
-| --- | --- |
-| Total bugs found | 0 |
-| Criticals found | 0 |
-| Highs found | 0 |
-| Mediums found | 0 |
-| Lows found | 0 |
+- Rust and Anchor programs
+- Solana account models and PDA security
+- DeFi protocols
+- AMMs and lending protocols
+- Access control and authorization
+- State/account validation
+- Economic vulnerabilities
 
 
-### Public Contests
+## Public Audit Contests
 
-Short summaries and links live in `public/`. Add a row for each contest.
-
-| Date | Duration | Contest | Platform | Result | Findings |
-| --- | --- | --- | --- | --- | --- |
-| 2025-12-17 | 30d | Rujira | Code4rena | #53 | [1M](public/2025-12-Rujira) |
-| 2026-4-18 | 40d | K2 Lend | Code4rena | #29 | [1H/1M](https://github.com/snufflesrea/audit-portfolio/blob/main/public/2026-4-K2-C4.md) |
+| Date | Contest | Platform | Result | Findings |
+| --- | --- | --- | --- | --- |
+| Dec 2025 | Rujira | Code4rena | #53 | [1 Medium](public/2025-12-Rujira-C4.md) |
+| Apr 2026 | K2 Lend | Code4rena | #29 | [1 High, 1 Medium](public/2026-4-K2-C4.md) |
 
 
-### Private Audits
+## Private Audits
 
-
-| Date | Duration  | NSLOC | Project | Type  | Findings |
-| --- | --- | --- | --- | --- | --- |
-
-
-
-### Bug bounty
-
-
-| Date | Duration  | NSLOC | Project | Type  | Findings |
-| --- | --- | --- | --- | --- | --- |
+Private audit work is available upon request, subject to client confidentiality.
 
 
 ## Publication & Media
 
 
+
+## Contact
+
+[X](https://x.com/snufflesrea) | [Email](mailto:andrealiureta@gmail.com)
+
 ## Notes
 
 - Private reports are shared with client permission only.
-- Public contest summaries include direct links to platform findings.
+- Public contest summaries include links to platform findings.
