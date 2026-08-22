@@ -19,8 +19,7 @@ I specialize in auditing Rust/Solana protocols and learn by breaking real system
 - 🦀 Rust / Solana security researcher
 - 🏆 1 High and 2 Medium findings from public audit contests
 - 🔍 3 valid findings across competitive audits
-- 🏅 Top 30 finish in Code4rena competition
-- 🧠 Currently exploring ZK and privacy protocol security
+- 🏅 Top 25 finish in Code4rena competition
 
 ## Security Focus
 
@@ -38,7 +37,7 @@ I specialize in auditing Rust/Solana protocols and learn by breaking real system
 | Date | Contest | Platform | Result | Findings |
 | --- | --- | --- | --- | --- |
 | Dec 2025 | Rujira | Code4rena | #53 | [1 Medium](public/2025-12-Rujira-C4.md) |
-| Apr 2026 | K2 Lend | Code4rena | #29 | [1 High, 1 Medium](public/2026-4-K2-C4.md) |
+| Apr 2026 | K2 Lend | Code4rena | #24 | [1 High, 1 Medium](public/2026-4-K2-C4.md) |
 
 
 ## Private Audits
