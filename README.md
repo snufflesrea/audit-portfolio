@@ -20,6 +20,7 @@ I specialize in auditing Rust/Solana protocols and learn by breaking real system
 - 🏆 1 High and 2 Medium findings from public audit contests
 - 🔍 3 valid findings across competitive audits
 - 🏅 Top 25 finish in Code4rena competition
+- Total 545 USDC from 2 competition (all Rust based)
 
 ## Security Focus
 
