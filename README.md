@@ -39,6 +39,7 @@ I specialize in auditing Rust/Solana protocols and learn by breaking real system
 | --- | --- | --- | --- | --- |
 | Dec 2025 | Rujira | Code4rena | #53 | [1 Medium](public/2025-12-Rujira-C4.md) |
 | Apr 2026 | K2 Lend | Code4rena | #24 | [1 High, 1 Medium](public/2026-4-K2-C4.md) |
+| Sept 2026 | RAIN | Hackenproof|  | 1 High, 1 Medium, 1 Low |
 
 
 ## Private Audits
