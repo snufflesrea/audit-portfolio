@@ -49,7 +49,11 @@ Private audit work is available upon request, subject to client confidentiality.
 
 ## Publication & Media
 
-
+## Smart Contract Development
+| Project	| Technology	| Purpose | Remarks |
+| --- | --- | --- | --- |
+| [NEAR Address Analyzer](https://github.com/snufflesrea/near-address-analyzer)	| Rust, NEAR SDK |	Account risk analysis using an oracle architecture | NEAR Hackaton 2026 submission |
+| [EtherLottery](https://github.com/snufflesrea/etherlottery)	| Solidity	| Smart contract development and lottery mechanics | |
 
 ## Contact
 
